@@ -2,7 +2,7 @@ package com.hamza.algorithms.sorting;
 
 import java.util.Arrays;
 
-public class InsertionSorting {
+public class InsertionSort {
     public static void main (String[] args) {
         int [] array = {2,3,1,5,3,2} ;
         insertionSort(array);
